@@ -41,7 +41,8 @@ w,和b是怎么得到的呢？这就是神经网络厉害的地方了，它自�
 http://neuralnetworksanddeeplearning.com/index.html  
 http://cs229.stanford.edu/materials.html  
 正态分布的前世今生。http://songshuhui.net/archives/76501  
-  
+宋新开同学讲的稀疏化方法，他讲得很清晰，把稀疏化的原因和原理说的很好，我也学习了一个。  
+杜伟健杜老师讲的cambricon lib，杜老师讲的真是好，受益匪浅。各种描述符的作用，为什么需要这些描述符。    
   
   
   
